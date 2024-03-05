@@ -1,3 +1,6 @@
 [submodule "kitty-configs"]
 	path = kitty-configs
 	url = git@github.com:jotapemattos/kitty-configs.git
+[submodule "lazyvim-configs"]
+	path = lazyvim-configs
+	url = git@github.com:jotapemattos/lazyvim-configs.git
